@@ -18,7 +18,7 @@ public class LoginPage {
 	private By password = By.id("input-password");
 	private By loginBtn = By.xpath("//input[@type='submit']");
 	private By forgotPwdLink = By.linkText("Forgotten Password");
-	private By registerLink = By.linkText("Register");
+	private By registerLink = By.linkText("Register1");
 	
 	//2.Public page class const
 	
