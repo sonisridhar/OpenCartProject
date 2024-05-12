@@ -8,8 +8,11 @@ public class Google {
 	}
 
 	public void setup() {
-		System.out.println("");
+		System.out.println("open the browser");
 	}
-	
+
+	public void tearDown() {
+		System.out.println("closing the browser");
+	}
 	int i =10;
 }
