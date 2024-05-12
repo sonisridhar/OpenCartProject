@@ -10,6 +10,9 @@ public class Google {
 	public void setup() {
 		System.out.println("");
 	}
+	public void close() {
+		System.out.println("closing the browser----sonni");
+	}
 	
 	int i =10;
 }
