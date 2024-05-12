@@ -18,9 +18,6 @@ public class Google {
 	public void close() {
 		System.out.println("closing the browser----sonni");
 	}
-	public void getTitle() {
-		System.out.println("get title");
-	}
 
 	int i =10;
 }
