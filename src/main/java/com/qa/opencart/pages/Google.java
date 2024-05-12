@@ -10,4 +10,6 @@ public class Google {
 	public void setup() {
 		System.out.println("");
 	}
+	
+	int i =10;
 }
