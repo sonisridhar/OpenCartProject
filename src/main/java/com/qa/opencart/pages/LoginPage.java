@@ -19,6 +19,7 @@ public class LoginPage {
 	private By loginBtn = By.xpath("//input[@type='submit']");
 	private By forgotPwdLink = By.linkText("Forgotten Password");
 	private By registerLink = By.linkText("Register");
+	private By AddressBook = By.linkText("Address Book");
 	
 	//2.Public page class const
 	
